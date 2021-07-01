@@ -563,7 +563,7 @@ $config['allowed_cors_headers'] = [
   'Content-Type',
   'Accept',
   'Access-Control-Request-Method',
-  'ALMACEN-API-KEY',
+  'API-KEY',
 ];
 
 /*
